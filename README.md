@@ -5,7 +5,7 @@ Dataset: listing.csv  (available for download at Inside Airbnb: http://data.insi
 
 Code: LA Airbnb Analysis.ipynb
 
-Analysis
+Analysis on Medium: https://medium.com/@xinyuzou_34243/the-houses-that-are-still-booked-during-the-pandemic-a-case-study-about-the-airbnb-listings-in-5adb5d2a9da2
 
 ## Package Needed to be Installed (Python 3)
 numpy
