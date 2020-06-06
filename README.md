@@ -1,3 +1,18 @@
 # Los-Angeles-Airbnb-Analysis
 
-the libraries used, the motivation for the project, the files in the repository with a small description of each, a summary of the results of the analysis,
+## Files
+Dataset: listing.csv
+Code: LA Airbnb Analysis.ipynb
+Analysis
+
+## Package Needed to be Installed (Python 3)
+numpy
+matplotlib
+locale
+scipy
+sklearn
+
+## Motivation
+
+## Findings
+
