@@ -1,7 +1,7 @@
 # Los-Angeles-Airbnb-Analysis
 
 ## Files
-Dataset: listing.csv
+Dataset: listing.csv  (downloaded from Inside Airbnb: http://insideairbnb.com/get-the-data.html)
 
 Code: LA Airbnb Analysis.ipynb
 
@@ -23,4 +23,4 @@ sklearn
 The target is to learn about the factors that influence a listing's occupancy rate, especially during this time of pandemic. The result will provide insights about what to do to make listings have more days of reservations to the current and prospect hosts.
 
 ## Findings
-The number of reviews 
+The listings that the occupancy rate beats at least half of all listings in LA area tend to have higher host acceptance rate, more reviews received, more privacy (whole apt instead of shared room, for instance). When predicting the availability, the number of reviews received, price and extra fees(security deposit, cleaning fee, etc.) are important components considered by random forest classifier, which obtains a 64% accuracy on the test dataset.
