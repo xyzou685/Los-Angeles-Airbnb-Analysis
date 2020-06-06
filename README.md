@@ -1,7 +1,7 @@
 # Los-Angeles-Airbnb-Analysis
 
 ## Files
-Dataset: listing.csv  (downloaded from Inside Airbnb: http://insideairbnb.com/get-the-data.html)
+Dataset: listing.csv  (available for download at Inside Airbnb: http://data.insideairbnb.com/united-states/ca/los-angeles/2020-05-08/data/listings.csv.gz)
 
 Code: LA Airbnb Analysis.ipynb
 
